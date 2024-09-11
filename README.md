@@ -1,4 +1,4 @@
-## Hello World! 👋
+## I'm Song JIMIN!
 
 <!--
 **jimin123456/jimin123456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
