@@ -24,9 +24,11 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v3
         with:
-          python-version: '3.x'  # Ensure you are using the correct Python version
+          python-version: '3.x'
 
       - name: Run Python Script
         run: |
-          python your_script.py 100  # Replace with your actual script name and arguments
+          python divisors.py 100  
+
+          python divisors.py 100  # Replace with your actual script name and arguments
 
